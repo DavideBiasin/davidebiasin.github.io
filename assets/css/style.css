@@ -1298,3 +1298,10 @@ a.icons-menu-button:focus,
 .visible{
     visibility: visible;
 }
+
+/* ------------------
+   Green point
+--------------------*/
+.green-marker{
+  color: #9ccc65;
+}
