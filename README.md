@@ -1,2 +1,2 @@
 # davidebiasin.github.io
-Personal Static Website
+Personal Website
